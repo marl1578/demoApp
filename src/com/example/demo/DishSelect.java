@@ -1,3 +1,5 @@
+package com.example.demo;
+
 public abstract class DishSelect implements OrderHelp {
     protected double dishPrice;
     private int dishCount;
